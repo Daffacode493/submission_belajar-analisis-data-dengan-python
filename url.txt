@@ -1,3 +1,3 @@
-link website streamlit: 
+link website streamlit: https://vxqcxnyfhhmndvhjgvkpzb.streamlit.app/
 
-link repository github: 
+link repository github: https://github.com/Daffacode493/submission_belajar-analisis-data-dengan-python.git
